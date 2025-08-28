@@ -1,0 +1,17 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python virtual environment
+yolov8_env/
+
+# Python caches
+*.pyc
+__pycache__/
+
+# IDE and OS files
+.vscode/
+.idea/
+*~
+.DS_Store

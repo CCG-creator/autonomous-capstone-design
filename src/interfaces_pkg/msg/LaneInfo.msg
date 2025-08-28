@@ -1,0 +1,4 @@
+float32 slope
+interfaces_pkg/TargetPoint[] target_points
+string current_lane
+float64 last_switch_time
